@@ -11,7 +11,7 @@ Overview: Atlas‑TW is a dungeon map browser with an integrated loot panel and 
 - Saved variables:
   - Account-wide: AtlasTWOptions
   - Per-character: AtlasTWCharDB
-- Optional dependencies (detected if installed): LootLink, ItemSync, EquipCompare, EQCompare, pfQuest, pfUI
+- Optional dependencies (detected if installed): EquipCompare, EQCompare, pfQuest, pfUI
 
 2) Installation
 - Copy the Atlas‑TW folder to Interface\AddOns
@@ -72,7 +72,6 @@ Overview: Atlas‑TW is a dungeon map browser with an integrated loot panel and 
 - Scale — Atlas window scale
 - Show Loot Panel with AtlasTW — show the bottom loot panel
 - Quests — embed the quests panel into the Atlas window
-- Tooltip modes (LootDefaultTT / LootlinkTT / LootItemSyncTT) — choose tooltip integration
 - Show cursor coordinates on World Map — toggle AtlasTWOptions.AtlasCursorCoords
 
 7) Commands
@@ -99,7 +98,7 @@ Overview: Atlas‑TW is a dungeon map browser with an integrated loot panel and 
 
 10) Tips
 - Auto‑select is handy when farming: the correct map opens automatically when you enter an instance
-- For item comparison, enable the appropriate tooltip integration (ItemSync/LootLink/EquipCompare)
+- For item comparison, enable the appropriate tooltip integration (EquipCompare)
 - Hide the loot panel temporarily to save space inside the Atlas window
 
 11) Localization
@@ -114,24 +113,25 @@ Overview: Atlas‑TW is a dungeon map browser with an integrated loot panel and 
 12) Technical Details
 - No external Babble libraries required (replaced by modular system)
 - All localization data is loaded via `Locales/locales.xml`
+- Fully synchronized with `byCFM2/Atlas-TW` v1.50 (Turtle WoW 1.18.1)
 
-## Turtle WoW Compatibility Fixes (January 2026)
+## Turtle WoW Compatibility & Patch 1.18.1 (March 2026)
 
-This version includes fixes and improvements specifically for Turtle WoW:
+This version includes specific fixes and data updates for Turtle WoW:
 
-**Fixed by**: DarckRovert (Elnazzareno - El Sequito del Terror)
+**Updated by**: DarckRovert (Elnazzareno - El Sequito del Terror)
 
-### Corrections Made:
-- Replaced external Babble libraries with modular localization system
-- Fixed all localization errors for Spanish (esES)
-- Improved compatibility with Turtle WoW custom content
-- Enhanced pfQuest integration
+### Latest 1.18.1 Support:
+- **New Zones**: Full data for *Moonwhisper Coast* and *Thorn Gorge*.
+- **Faction Rewards**: Complete loot tables for the *Draenei Exiles* faction.
+- **Instance Data**: Updated loot and boss information for *Naxxramas*, *Onyxia's Lair*, and *Blackwing Lair*.
+- **Crafting System**: Split menus by skill tier (Apprentice to Artisan) with new recipes for *Survival* and *Jewelcrafting*.
+- **Synchronization**: Fully synced with the official `byCFM2/Atlas-TW` (v1.50) core.
 
-For detailed information about the fixes, see:
-- **CHANGELOG_TURTLEWOW.md** - Complete changelog (English)
-- **CREDITOS_ES.md** - Complete changelog (Spanish)
-- **LEEME.md** - README in Spanish
-
+For more details, see:
+- **CHANGELOG_TURTLEWOW.md** - Full technical changelog (English)
+- **CREDITOS_ES.md** - Full technical changelog (Spanish)
+- **LEEME.md** - Spanish README
 
 Feedback
 - Report bugs and requests: which maps/quests/rewards are incorrect, your client language, and client version

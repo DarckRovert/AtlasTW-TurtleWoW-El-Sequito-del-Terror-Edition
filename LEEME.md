@@ -174,15 +174,28 @@ Para información detallada sobre las correcciones, consulta:
 
 Estas correcciones fueron realizadas para eliminar todos los errores de Babble y mejorar la compatibilidad con el contenido custom de Turtle WoW.
 
-## Soporte
+## Compatibilidad con Turtle WoW y Parche 1.18.1 (Marzo 2026)
 
-Si encuentras algún error o tienes sugerencias, por favor contacta a:
-- **Discord de Turtle WoW**: Busca a Elnazzareno
-- **En el juego**: Envía un mensaje a Elnazzareno
+Esta versión incluye correcciones específicas y actualizaciones de datos para Turtle WoW:
 
-## Licencia
+**Actualizado por**: DarckRovert (Elnazzareno - El Sequito del Terror)
 
-Este addon mantiene la licencia original de Atlas. Las correcciones para Turtle WoW son de código abierto y pueden ser utilizadas libremente.
+### Soporte para la 1.18.1:
+- **Nuevas Zonas**: Datos completos para *Moonwhisper Coast* y *Thorn Gorge*.
+- **Recompensas de Facción**: Tablas de botín completas para los *Exiliados Draenei* (Draenei Exiles).
+- **Datos de Instancias**: Botín y jefes actualizados para *Naxxramas*, *Guarida de Onyxia* y *Guarida de Alanegra*.
+- **Sistema de Profesiones**: Menús divididos por nivel de habilidad (Aprendiz a Artesano) con nuevas recetas de *Supervivencia (Survival)* y *Joyería (Jewelcrafting)*.
+- **Sincronización**: Totalmente sincronizado con el núcleo oficial de `byCFM2/Atlas-TW` (v1.50).
+
+Para más detalles, consulta:
+- **CHANGELOG_TURTLEWOW.md** - Registro técnico completo (Inglés)
+- **CREDITOS_ES.md** - Registro técnico completo (Español)
+- **README.md** - README en inglés
+
+---
+
+## Comentarios
+- Reporta bugs y solicitudes: qué mapas/misiones/recompensas son incorrectos, tu idioma de cliente y versión de cliente.
 
 ---
 

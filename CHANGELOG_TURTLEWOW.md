@@ -1,5 +1,36 @@
 # Atlas-TW - Turtle WoW Compatibility Fixes Changelog
 
+## Version 1.50 - Turtle WoW Edition (March 2026)
+
+### Author Information
+- **Real Name**: DarckRovert
+- **In-Game Character**: Elnazzareno
+- **Guild**: El Sequito del Terror
+- **Date**: March 23, 2026
+
+---
+
+## Major Changes in 1.50-TW
+
+### 1. Synchronization with Upstream 1.50
+- Merged all core improvements from the official `byCFM2/Atlas-TW` repository.
+- Full codebase synchronization keeping the modular localization framework.
+
+### 2. Turtle WoW 1.18.1 Patch Support
+- **New Zones**: Integrated data for *Moonwhisper Coast* and *Thorn Gorge*.
+- **Faction Rewards**: Added comprehensive loot tables for the *Draenei Exiles* faction.
+- **Instance Updates**: Synchronized the latest loot data for *Naxxramas*, *Onyxia's Lair*, and *Blackwing Lair*.
+- **Crafting Overhaul**:
+    - Profession menus are now organized by skill tier (Apprentice to Artisan).
+    - Added new recipes for *Survival*, *Jewelcrafting*, and other professions.
+
+### 3. Maintenance & Polish
+- Updated map markers and interface assets.
+- Improved pfQuest lookup integration for new 1.18.1 items.
+- Full audit for Lua 5.0 compatibility.
+
+---
+
 ## Version 1.45 - Turtle WoW Edition (January 2026)
 
 ### Author Information

@@ -1,5 +1,36 @@
 # Atlas-TW - Registro de Correcciones para Turtle WoW
 
+## Versión 1.50 - Edición Turtle WoW (Marzo 2026)
+
+### Información del Autor
+- **Nombre Real**: DarckRovert
+- **Personaje en el Juego**: Elnazzareno
+- **Clan**: El Sequito del Terror
+- **Fecha**: 23 de Marzo de 2026
+
+---
+
+## Cambios Principales en 1.50-TW
+
+### 1. Sincronización con Upstream 1.50
+- Mezcladas todas las mejoras del núcleo del repositorio oficial `byCFM2/Atlas-TW`.
+- Sincronización completa del código manteniendo el framework de localización modular.
+
+### 2. Soporte para el Parche 1.18.1 de Turtle WoW
+- **Nuevas Zonas**: Integrados los datos para *Moonwhisper Coast* y *Thorn Gorge*.
+- **Recompensas de Facción**: Añadidas tablas de botín completas para los *Exiliados Draenei* (Draenei Exiles).
+- **Actualización de Instancias**: Sincronizados los últimos datos de botín para *Naxxramas*, *Guarida de Onyxia* y *Guarida de Alanegra*.
+- **Renovación de Profesiones**:
+    - Menús de profesiones ahora organizados por nivel de habilidad (Aprendiz a Artesano).
+    - Añadidas nuevas recetas de *Supervivencia (Survival)*, *Joyería (Jewelcrafting)* y otras.
+
+### 3. Mantenimiento y Pulido
+- Actualizados marcadores de mapa y recursos de interfaz.
+- Mejorada la integración de búsqueda de pfQuest para nuevos objetos de la 1.18.1.
+- Auditoría completa de compatibilidad con Lua 5.0.
+
+---
+
 ## Versión 1.45 - Edición Turtle WoW (Enero 2026)
 
 ### Información del Autor
