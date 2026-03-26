@@ -9,7 +9,7 @@
 ## Notes-esES: Navegador de mapas de mazmorras para miembros del clan El Séquito del Terror. [Correcciones Turtle WoW por DarckRovert]
 ## Notes-ptBR: Navegador de mapas de masmorras para membros do clan El Séquito del Terror. [Correcciones TurtleWoW por DarckRovert]
 ## Notes-zhCN: El Séquito del Terror 专用副本助手。[TurtleWoW 修复 by DarckRovert]
-## Version: 1.50-TW
+## Version: 9.3.0-TW
 ## X-TurtleWow-Fixes: DarckRovert (El Séquito del Terror) - 2026
 ## X-Original-Version: 1.50
 ## Author: CFM, Otari98, Dan Gilbert, Daviesh, pepopo, etc
