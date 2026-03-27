@@ -1,4 +1,4 @@
-﻿## Interface: 11200
+## Interface: 11200
 ## Title: Atlas-TW - El Séquito del Terror Edition
 ## Title-deDE: Atlas-TW - El Séquito del Terror Edition
 ## Title-esES: Atlas-TW - El Séquito del Terror Edition
@@ -12,7 +12,7 @@
 ## Version: 9.3.0 [God-Tier]
 ## X-TurtleWow-Fixes: DarckRovert (El Séquito del Terror) - 2026
 ## X-Original-Version: 1.50
-## Author: CFM, Otari98, Dan Gilbert, Daviesh, pepopo, etc
+## Author: El Séquito del Terror
 ## SavedVariables: AtlasTWOptions
 ## SavedVariablesPerCharacter: AtlasTWCharDB
 ## OptionalDeps: LootLink, ItemSync, EquipCompare, EQCompare, pfQuest, pfUI
