@@ -1,40 +1,38 @@
-# Léeme — Atlas-TW [Edición El Séquito del Terror] (v9.3.1)
+# Léeme — Atlas-TW [Edición El Séquito del Terror] — v9.3.1 [God-Tier] 🗺️⚔️
 
-## Resumen de la Edición Especial
-Esta versión de Atlas‑TW ha sido personalizada exclusivamente para la hermandad **El Séquito del Terror** de Turtle WoW. Incluye mejoras visuales, correcciones técnicas y un sistema de migración de datos para una experiencia "God-Tier".
+> **Explorador de mapas de mazmorras y panel de botín integrado para Turtle WoW.** Versión modernizada con panel de 800px y sistema de migración de datos heredados.
 
-## Novedades v9.3.1 [God-Tier]
+---
 
-1. **Panel de Botín Modernizado**:
-   - El panel inferior ha sido expandido a **800px** de ancho para una mejor visualización de los objetos.
-   - Corregido el solapamiento de botones en la versión en español.
-2. **Identidad de Hermandad**:
-   - Integración del logo oficial de **El Séquito** en la cabecera del mapa.
-   - Títulos y textos alineados para evitar colisiones visuales.
-3. **Migración Automática**:
-   - Al iniciar por primera vez, el addon absorberá automáticamente tus **Wishlists** (Listas de Deseos) y **QuickLooks** de la versión antigua de AtlasLoot.
-4. **Resolución de Conflictos**:
-   - Hemos desactivado las funciones redundantes de otros addons para evitar errores de Lua y duplicidad de ventanas en Turtle WoW.
+## 🗺️ ¿Qué es Atlas-TW?
 
-## Guía de Instalación
+Atlas‑TW es un navegador de mapas de mazmorras con un panel de botín y un módulo de misiones integrados. Esta edición especial **"Séquito del Terror"** ha sido reconstruida para ofrecer una interfaz fluida, branding de hermandad y correcciones técnicas críticas para el cliente de Turtle WoW.
 
-1. **Extrae** la carpeta `Atlas-TW` en `Interface\AddOns\`.
-2. **Activa** el addon en el menú de Acceso en la pantalla de selección de personaje.
-3. **Comandos**:
-   - `/atlastw` — Abre/Cierra la ventana principal.
-   - `/atlastw options` — Configura la escala, transparencia y botones.
+**Crédito original:** Razzer — Actualizado y mantenido por la hermandad.
 
-## Contenido de Turtle WoW
+## 🚀 Características
 
-Atlas-TW incluye mapas actualizados para el contenido personalizado de Turtle WoW:
-- Nuevas mazmorras exclusivas del servidor.
-- Zonas de contenido adicional y eventos.
-- Tablas de botín actualizadas con los objetos únicos de Turtle WoW.
+| Módulo | Descripción |
+|---|---|
+| **Panel de Botín 800px** | Interfaz expandida a 800x125 para una navegación de objetos superior. |
+| **Branding del Séquito** | Logo oficial del cráneo integrado en la cabecera (vía ElSequitoLogo.tga). |
+| **Migración de Datos** | Absorción automática de Wishlists y QuickLooks desde AtlasLoot antiguo. |
+| **Misiones Integradas** | Panel lateral con historias y recompensas filtradas por facción. |
+| **pfQuest Bridge** | Búsqueda directa de objetos y localizaciones en la base de pfQuest. |
+| **Header Modernizado** | Botones reubicados para evitar solapamientos en español y otros idiomas. |
 
-## Compatibilidad
+## ⚙️ Instalación
 
-- **Cliente**: Turtle WoW 1.12.1
-- **Integración**: pfQuest, pfUI, EquipCompare (detectados automáticamente).
+1. Extrae en `Interface\AddOns\Atlas-TW\`.
+2. Activa el addon en la pantalla de selección de personajes.
+3. Comandos básicos:
+   - `/atlastw` — Abrir/Cerrar la ventana principal.
+   - `/atlastw options` — Configurar escala, transparencia y botones.
+   - `/atlastw ver` — Verificar tu versión local.
 
-## Soporte de Hermandad
-Si encuentras algún error en los datos de botín o la interfaz, repórtalo en el canal de Discord del clan o a los oficiales.
+## 📖 Guía del Séquito
+
+Ver [SEQUITO_GUIDE.md](./SEQUITO_GUIDE.md) para la configuración recomendada de los addons del clan y optimización del Atlas.
+
+---
+Fork mantenido por **DarckRovert (Elnazzareno)** para El Séquito del Terror.
