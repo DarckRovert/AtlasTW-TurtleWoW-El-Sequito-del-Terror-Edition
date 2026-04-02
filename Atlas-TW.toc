@@ -1,9 +1,9 @@
 ## Interface: 11200
-## Title: Atlas-TW - El Séquito del Terror Edition
-## Title-deDE: Atlas-TW - El Séquito del Terror Edition
-## Title-esES: Atlas-TW - El Séquito del Terror Edition
-## Title-ptBR: Atlas-TW - El Séquito del Terror Edition
-## Title-zhCN: Atlas-TW - El Séquito del Terror Edition
+## Title: |cffffffffAtlas-TW |r|cff00ccff[Séquito del Terror]|r
+## Title-deDE: |cffffffffAtlas-TW |r|cff00ccff[Séquito del Terror]|r
+## Title-esES: |cffffffffAtlas-TW |r|cff00ccff[Séquito del Terror]|r
+## Title-ptBR: |cffffffffAtlas-TW |r|cff00ccff[Séquito del Terror]|r
+## Title-zhCN: |cffffffffAtlas-TW |r|cff00ccff[Séquito del Terror]|r
 ## Notes: Instance map browser for El Séquito del Terror clan members. Shows possible boss loot and instance quests. [TurtleWoW Fixes by DarckRovert]
 ## Notes-deDE: Instanzkarten-Browser fÃ¼r El Séquito del Terror Clan-Mitglieder. [TurtleWoW Korrekturen von DarckRovert]
 ## Notes-esES: Navegador de mapas de mazmorras para miembros del clan El Séquito del Terror. [Correcciones Turtle WoW por DarckRovert]
