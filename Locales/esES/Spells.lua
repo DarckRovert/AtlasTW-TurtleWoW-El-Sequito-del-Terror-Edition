@@ -247,4 +247,13 @@ AtlasTW.Localization:RegisterNamespace("Spells", "esES", {
     ["Tribal Leatherworking"] = "Peletería Tribal",
     ["Water"] = "Agua",
     ["Weaponsmith"] = "Forjador de Armas",
+
+    -- TW Additions (Synced)
+    ["Defias Disguise"] = true,
+    ["South Seas Pirate Disguise"] = true,
+    ["Stonesplinter Trogg Disguise"] = true,
+    ["Syndicate Disguise"] = true,
+    ["Dalaran Wizard Disguise"] = true,
+    ["Dark Iron Dwarf Disguise"] = true,
+    ["Enchant Weapon - Rift Tear"] = true,
 })

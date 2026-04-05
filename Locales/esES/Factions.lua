@@ -40,4 +40,8 @@ AtlasTW.Localization:RegisterNamespace("Factions", "esES", {
     ["Honored"] = "Honorable",
     ["Revered"] = "Venerado",
     ["Exalted"] = "Exaltado",
+
+    -- TW Additions (Synced)
+    ["Earthen Ring"] = "El Anillo de la Tierra",
+    ["Draenei Exiles"] = "Exiliados Draenei",
 })

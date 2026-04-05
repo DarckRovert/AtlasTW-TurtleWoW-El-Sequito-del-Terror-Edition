@@ -1,4 +1,4 @@
-# Léeme — Atlas-TW [Edición El Séquito del Terror] — v9.3.1 [God-Tier] 🗺️⚔️
+# Léeme — Atlas-TW [Edición El Séquito del Terror] — v9.3.2 [God-Tier] 🗺️⚔️
 
 > **Explorador de mapas de mazmorras y panel de botín integrado para Turtle WoW.** Versión modernizada con panel de 800px y sistema de migración de datos heredados.
 
@@ -19,7 +19,7 @@ Atlas‑TW es un navegador de mapas de mazmorras con un panel de botín y un mó
 | **Migración de Datos** | Absorción automática de Wishlists y QuickLooks desde AtlasLoot antiguo. |
 | **Misiones Integradas** | Panel lateral con historias y recompensas filtradas por facción. |
 | **pfQuest Bridge** | Búsqueda directa de objetos y localizaciones en la base de pfQuest. |
-| **Header Modernizado** | Botones reubicados para evitar solapamientos en español y otros idiomas. |
+| **Soporte Multi-Locale** | Localización completa `esES` y redirección automática para clientes `esMX`. |
 
 ## ⚙️ Instalación
 
@@ -35,4 +35,15 @@ Atlas‑TW es un navegador de mapas de mazmorras con un panel de botín y un mó
 Ver [SEQUITO_GUIDE.md](./SEQUITO_GUIDE.md) para la configuración recomendada de los addons del clan y optimización del Atlas.
 
 ---
+
+## 🌐 Localización y Compatibilidad
+
+Esta versión incluye una revisión completa del sistema de idiomas:
+- **Soporte esMX Nativo**: Redirección automática para clientes latinoamericanos.
+- **Sincronización Turtle WoW (1.17/1.18)**: Paridad total con la versión inglesa.
+- **Limpieza de Idiomas**: Eliminación de fragmentos obsoletos en portugués y alemán.
+- **Herramientas de Auditoría**: Integración de scripts para el mantenimiento futuro.
+
+---
 Fork mantenido por **DarckRovert (Elnazzareno)** para El Séquito del Terror.
+Sincronización de localización v1.2.0 (Abril 2026).

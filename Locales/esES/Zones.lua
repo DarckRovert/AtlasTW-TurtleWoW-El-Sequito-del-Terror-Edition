@@ -132,5 +132,8 @@ AtlasTW.Localization:RegisterNamespace("Zones", "esES", {
     ["Winterspring"] = "Cuna del Invierno",
     ["Zul'Farrak"] = "Zul'Farrak",
     ["Zul'Gurub"] = "Zul'Gurub",
-    ["Frostmane Hollow"] = "Frostmane Hollow", --TODO translate
+    ["Frostmane Hollow"] = "Frostmane Hollow", --TODO translate,
+
+    -- TW Additions (Synced)
+    ["Moonwhisper Coast"] = "Costa Susurro de Luna",
 })

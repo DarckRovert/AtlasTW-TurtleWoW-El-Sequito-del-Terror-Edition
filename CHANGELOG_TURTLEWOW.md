@@ -1,5 +1,18 @@
 # Atlas-TW - Turtle WoW Compatibility Fixes Changelog
 
+## Version 9.3.2 [God-Tier] - Localization Sync Update (April 5, 2026)
+
+### 1. Localization Parity
+- **Full Sync**: Synchronized all `esES` locale modules (`Bosses`, `Factions`, `ItemSets`, `MapData`, `Spells`, `Zones`) with `enUS` counterparts to reach **0 missing keys**.
+- **esMX Support**: Implemented a global alias in the framework to redirect Latin American Spanish clients to the updated `esES` resources.
+- **Turtle WoW 1.17/1.18 Ready**: Added 84 missing boss profiles and new world content profiles from the latest private server patches.
+
+### 2. Language & Code Integrity
+- **Fragment Cleanup**: Purged non-Spanish fragments (Portuguese/German) from the quest database.
+- **Maintenance Tools**: Added Python-based synchronization and auditing scripts to the repository root for future localized content updates.
+
+---
+
 ## Version 9.3.1 [God-Tier] - El Séquito del Terror Edition (April 1, 2026)
 
 ### Author Information

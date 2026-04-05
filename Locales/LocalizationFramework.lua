@@ -7,7 +7,7 @@
 AtlasTW = _G.AtlasTW or {}
 
 AtlasTW.Localization = {
-    currentLocale = GetLocale(),
+    currentLocale = (GetLocale() == "esMX" and "esES") or GetLocale(),
     namespaces = {}
 }
 

@@ -515,4 +515,15 @@ AtlasTW.Localization:RegisterNamespace("MapData", "esES", {
     ["South of the path along Lake Elune'ara"] = "Al sur del sendero junto al Lago Elune'ara",
     [" Arena"] = " Arena",
     [" (Chess fight)"] = " (Batalla de ajedrez)",
+
+    -- TW Additions (Synced)
+    ["Mini Bosses"] = true,
+    ["Draka"] = true,
+    ["Theramore"] = true,
+    ["Grom'gol"] = true,
+    ["Chest of Dathronag"] = true,
+    ["Lower Reserve Key"] = true,
+    ["Moonhoof Village"] = true,
+    ["Narvalis Point"] = true,
+    ["Shimmerstar Lake"] = true,
 })

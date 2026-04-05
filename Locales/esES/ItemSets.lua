@@ -232,4 +232,13 @@ AtlasTW.Localization:RegisterNamespace("ItemSets", "esES", {
     ["Lieutenant Commander's Guard"] = "Guardia de Teniente Coronel",
     ["Lieutenant Commander's Dreadgear"] = "Equipo de Terror de Teniente Coronel",
     ["Lieutenant Commander's Battlearmor"] = "Armadura de Batalla de Teniente Coronel",
+
+    -- TW Additions (Synced)
+    ["Sacred Windhorn Attire"] = true,
+    ["Surrender to Madness"] = true,
+    ["Attire of the Oracle"] = true,
+    ["Attire of Prophecy"] = true,
+    ["Attire of Transcendence"] = true,
+    ["Attire of Faith"] = true,
+    ["Attire of Pestilence"] = true,
 })
