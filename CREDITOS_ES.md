@@ -9,7 +9,6 @@ El proyecto Atlas fue creado originalmente por la comunidad de WoW Vanilla. Sus 
 - **Maps de Turtle WoW**: Contribuidores de la comunidad de Turtle WoW.
 - **Localización al español**: DarckRovert (Elnazzareno) — El Séquito del Terror.
 - **Integración al Ecosistema**: DarckRovert (Elnazzareno) — El Séquito del Terror.
-- **Asistencia Técnica (IA)**: Antigravity (Advanced Agentic AI).
 
 ## Contenido
 

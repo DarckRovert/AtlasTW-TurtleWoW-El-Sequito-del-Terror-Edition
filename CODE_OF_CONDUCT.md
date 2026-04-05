@@ -1,15 +1,10 @@
-# Código de Conducta de El Séquito del Terror
+# Contributor Covenant Code of Conduct
 
-## Nuestro Compromiso
-Como miembros, contribuyentes y líderes de **El Séquito del Terror**, nos comprometemos a hacer de la participación en nuestra comunidad una experiencia libre de acoso para todos.
+Como miembros de **El Séquito del Terror**, nos comprometemos a mantener un ambiente de exploración y raideo profesional.
 
-## Nuestros Estándares
-- Demostrar empatía y amabilidad.
-- Respetar las opiniones divergentes.
-- Aceptar la responsabilidad por nuestros actos.
+## Compromiso
+- Veracidad en la información de loot reportada.
+- Respeto a los autores originales y contribuidores de Atlas.
+- Enfoque en la precisión geográfica del ecosistema.
 
-## Aplicación
-Los incidentes pueden reportarse a través de GitHub Issues en el repositorio oficial.
-
----
-Adaptado del [Contributor Covenant](https://www.contributor-covenant.org) v2.1.
+Referencia: [CODE_OF_CONDUCT.md en el root del ecosistema].

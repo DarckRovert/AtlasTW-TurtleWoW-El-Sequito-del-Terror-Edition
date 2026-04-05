@@ -1,14 +1,14 @@
-# Contribuyendo a El Séquito del Terror
+# Contributing to Atlas-TW (El Séquito Edition)
 
-¡Gracias por tu interés en potenciar nuestro arsenal!
+Este es un fork especializado en la base de datos de mapas y loot para Turtle WoW.
 
-## Cómo contribuir
-1. Haz un fork del repositorio.
-2. Crea una rama para tu mejora (git checkout -b feature/mejora).
-3. Envía tus cambios vía Pull Request.
+## Reglas Técnicas
+1. **Map Data**: Cualquier edición de coordenadas o nuevos mapas debe validarse en `TWAtlas/`.
+2. **Loot Tables**: Las actualizaciones de botín deben reflejar los drops actuales de Turtle WoW.
+3. **Lua 5.0**: Evitar operadores modernos.
 
-## Estándares
-- Compatibilidad total con **Turtle WoW (Lua 5.0)**.
-- Documentación clara en los commits.
+## Desarrollo
+Forkea, mejora y abre un PR en GitHub.
 
-Lee nuestro [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) antes de empezar.
+---
+© 2026 **DarckRovert**.
