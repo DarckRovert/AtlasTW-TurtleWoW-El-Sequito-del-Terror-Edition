@@ -1,9 +1,9 @@
-# Atlas-TW — Dungeon Navigator (v9.4.0 [Omni-Tier]) 🗺️⚔️
+# Atlas Navigator — (Atlas-TW) (v1.8.3 [Dungeon-Tier]) 🗺️🏛️
 
 > **The ultimate instance map browser for Turtle WoW.** Optimizado para el clan **El Séquito del Terror** con correcciones críticas de bases de datos de botín realizadas por **DarckRovert**.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Version](https://img.shields.io/badge/version-v9.4.0--Omni--Tier-blue)](./CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-v1.8.3--Dungeon--Tier-blue)](./CHANGELOG.md)
 [![World of Warcraft](https://img.shields.io/badge) (https://turtle-wow.org)
 [![Support](https://img.shields.io/badge/Support-Ko--fi-blue)](https://ko-fi.com/darckrovert)
 

@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: |cffffffffAtlas-TW |r|cff00ccff[Séquito del Terror]|r
-## Version: 9.4.0 [Omni-Tier]
+## Version: 1.8.3 [Dungeon-Tier]
 ## Notes: Instance map browser for El Séquito del Terror clan members. Shows possible boss loot and instance quests. [TurtleWoW Fixes by DarckRovert]
 ## Author: El Séquito del Terror (DarckRovert)
 ## SavedVariables: AtlasTWOptions
