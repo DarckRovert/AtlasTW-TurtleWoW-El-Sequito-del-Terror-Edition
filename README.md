@@ -35,12 +35,12 @@ Es la versión definitiva de Atlas para **Turtle WoW**, que integra mapas de maz
 
 ## 🏗️ Suite de Documentación (Wiki)
 
-Domina la geografía de Azeroth en nuestra base de conocimientos:
+Domina la geografía de Azeroth en nuestra base de conocimientos oficial:
 
-- 📐 **[Arquitectura de Datos](./wiki/Architecture.md)**: Estructura de TWAtlas/TWLoot.
-- 🛠️ **[Guía de API Atlas](./wiki/API_Guide.md)**: Cómo extender las tablas de botín.
-- ❓ **[FAQ de Navegación](./wiki/FAQ.md)**: ¿Faltan mapas en mazmorras custom?
-- 📖 **[Manual de Usuario](./wiki/User_Manual.md)**: Guía de comandos y opciones.
+- 🏰 **[Arquitectura de Datos](https://github.com/DarckRovert/AtlasTW-TurtleWoW-El-Sequito-del-Terror-Edition/wiki/Arquitectura-(Extended))**: Estructura de TWAtlas/TWLoot.
+- 🛠️ **[Guía de API Atlas](https://github.com/DarckRovert/AtlasTW-TurtleWoW-El-Sequito-del-Terror-Edition/wiki/Guía-de-API)** / **[API Guide](https://github.com/DarckRovert/AtlasTW-TurtleWoW-El-Sequito-del-Terror-Edition/wiki/API-Guide-(English))**.
+- ❓ **[FAQ de Navegación](https://github.com/DarckRovert/AtlasTW-TurtleWoW-El-Sequito-del-Terror-Edition/wiki/FAQ)**: ¿Faltan mapas en mazmorras custom?
+- 📖 **[Manual de Usuario](https://github.com/DarckRovert/AtlasTW-TurtleWoW-El-Sequito-del-Terror-Edition/wiki/Manual-de-Usuario)** / **[User Manual](https://github.com/DarckRovert/AtlasTW-TurtleWoW-El-Sequito-del-Terror-Edition/wiki/User-Manual-(English))**.
 
 ## 🚀 Despliegue Rápido (Map-Flow)
 
